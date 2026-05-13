@@ -1,0 +1,6 @@
+{
+  "name": "AI Design Toolkit",
+  "description": "Professional-grade AI toolkit for DTP and PowerPoint. Prepare, enhance, and generate high-resolution assets with ease.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": []
+}
